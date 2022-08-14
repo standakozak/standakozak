@@ -7,11 +7,11 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-koz%C3%A1k-b14339242/)
 
 ## My projects
-### [Geospatial libraries](https://github.com/standakozak/Seminarni-prace-geopandas)
-I've written a seminary paper (in Czech) on a Python geospatial library Geopandas for my high school's Geography lessons. I've also contributed several times to this library on GitHub.
-
 ### [Ticket booking system](https://github.com/standakozak/ticketsbooking)
 I've made and administrated web app for booking ticket to our school's annual prom. This website was used by more than 300 people.
+
+### [Geospatial libraries](https://github.com/standakozak/Seminarni-prace-geopandas)
+I've written a seminary paper (in Czech) on a Python geospatial library Geopandas for my high school's Geography lessons. I've also contributed several times to this library on GitHub.
 
 ### [Chess.com browser extension](https://github.com/standakozak/chess_games_limit)
 I've created a web browser extension which keeps track of opened games at chess.com. It also limit the games by a certain number.

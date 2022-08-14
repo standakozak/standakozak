@@ -1,4 +1,5 @@
 ### Hi there, you have reached the profile of Stanislav Kozák👋
+<img src="https://github-readme-stats.vercel.app/api?username=standakozak&&show_icons=trueicon_color=bb2acf&text_color=ffffff&bg_color=242424" width="50%"/>
 
 - 🌱 I’m currently studying Artificial Intelligence (B. Sc.) at [THI](https://www.thi.de/)
 - ⚡ I've been learning Python and web development in the last five years

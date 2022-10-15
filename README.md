@@ -13,6 +13,9 @@ I've made and administrated web app for booking ticket to our school's annual pr
 ### [Geospatial libraries](https://github.com/standakozak/Seminarni-prace-geopandas)
 I've written a seminary paper (in Czech) on a Python geospatial library Geopandas for my high school's Geography lessons. I've also contributed several times to this library on GitHub.
 
+### [Neural Networks Training GUI](https://github.com/standakozak/neural_network_visualization)
+I've made an interactive tkinter GUI for creating, training and saving neural networks. It includes hand-written digits dataset (MNIST), Fashion and Quickdraw dataset loader.
+
 ### [Chess.com browser extension](https://github.com/standakozak/chess_games_limit)
 I've created a web browser extension which keeps track of opened games at chess.com. It also limit the games by a certain number.
 

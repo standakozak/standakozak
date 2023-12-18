@@ -1,9 +1,18 @@
 ### Hi there, you have reached the profile of Stanislav Kozák👋
+<!-- temporary outcomment
 <img src="https://github-readme-stats.vercel.app/api?username=standakozak&&show_icons=trueicon_color=bb2acf&text_color=ffffff&bg_color=242424" width="50%"/>
+-->
+<code><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="REACT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<!--<code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>-->
 
 - 🌱 I’m currently studying Artificial Intelligence (B. Sc.) at [THI](https://www.thi.de/)
-- ⚡ I've been learning Python and web development in the last five years
-- 🔭 I’m currently looking for internship opportunities
+- 🔭 I’m currently working on Causal Inference modelling at [e:fs TechHub GmbH](https://www.efs-techhub.com/)
+- ⚡ I've been learning Python and web development for the last seven years
+- 🔭 I’m currently looking for internship opportunities in Artificial Intelligence
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-koz%C3%A1k-b14339242/)
 
 ## My projects

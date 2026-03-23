@@ -5,10 +5,10 @@
 
 <!--<code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>-->
 
-- 🌱 I’m currently studying Artificial Intelligence (B. Sc.) at [Technical University of Applied Sciences Ingolstadt](https://www.thi.de/)
-- 🔭 I’m currently building Causal Inference engine at [e:fs TechHub GmbH]([https://www.efs-techhub.com/](https://www.efs-techhub.com/efs-portfolio/loesungen/whyond))
-- ⚡ I've been learning Python and web development for the last seven years
-- 🔭 I’m currently looking for working student and internship opportunities in Artificial Intelligence and collaborators for AI projects and competitions.
+- 🌱 I’m currently studying Robotics, Cognition, Intelligence (M. Sc.) at [Technical University Munich](https://www.tum.de/)
+- 🔭 I’m currently working on AR glasses tracking at BMW Research
+- ⚡ I've been learning Python and web development for the last nine years
+- 🔭 I’m currently looking for working student opportunities in Machine Learning and Robotics and collaborators for AI projects and competitions.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-koz%C3%A1k-b14339242/)
 
 
@@ -31,6 +31,8 @@ Web Development:
 
 
 ## My projects
+### Metric Depth Estimation from aerial imagery for drone navigation
+In cooperation with the Fraunhofer Institute for Transportation and Infrastructure, our student group built and trained a self-supervised visual-inertial odometry system to estimate metric depth in aerial images. <sub>*Python, PyTorch, OpenCV, Numpy*</sub>
 ### [Virtual Chessboard](https://github.com/standakozak/VideoChess)
 For our student group project, we've built a virtual chessboard which can be operated by hand moves in front of a webcam. Uses gesture recognition and localization to control internal game states. Supports playing against an AI opponent (Stockfish) <sub>*Python, MediaPipe, OpenCV, Numpy*</sub>
 

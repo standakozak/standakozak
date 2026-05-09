@@ -31,6 +31,8 @@ Web Development:
 
 
 ## My projects
+### 3D Reconstruction and Digital Twins for Sim2Real Transfer
+While working at the Chair of Autonomous Vehicle Systems at the Technical University of Munich, I participated in a research project focusing on robotic policy training and Sim2Real transfer. My responsibilities included creating a digital twin of our laboratory to enable realistic training conditions. <sub>*Python, PyTorch, Gaussian Splatting, NeRFs*</sub>
 ### Metric Depth Estimation from aerial imagery for drone navigation
 In cooperation with the Fraunhofer Institute for Transportation and Infrastructure, our student group built and trained a self-supervised visual-inertial odometry system to estimate metric depth in aerial images. <sub>*Python, PyTorch, OpenCV, Numpy*</sub>
 ### [Virtual Chessboard](https://github.com/standakozak/VideoChess)

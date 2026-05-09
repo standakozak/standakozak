@@ -6,8 +6,10 @@
 <!--<code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>-->
 
 - 🌱 I’m currently studying Robotics, Cognition, Intelligence (M. Sc.) at [Technical University Munich](https://www.tum.de/)
-- 🔭 I’m currently working on AR glasses tracking at BMW Research
-- ⚡ I've been learning Python and web development for the last nine years
+- ✅ I completed Artificial Intelligence (B. Sc.) at [Technical University of Applied Sciences Ingolstadt](https://www.thi.de/) with the average grade 1.0
+- 🔭 I am currently working on a research project for 3D reconstruction and digitial twin creation for robotic policy training at the Chair of Autonomous vehicle systems at TUM 
+- ⚡ I worked on AR glasses tracking and model optimization at BMW Research, on causal inference engine at e:fs Techhub GmbH and much more...
+<!-- - ⚡ I've been learning Python and web development for the last nine years -->
 - 🔭 I’m currently looking for working student opportunities in Machine Learning and Robotics and collaborators for AI projects and competitions.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-koz%C3%A1k-b14339242/)
 
